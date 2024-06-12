@@ -7,3 +7,5 @@
 Seperation of concerns, make life easier by ...
 
 We created user routes, and we created router object from 
+
+Models uses mongoose to connect to mongoDB data
