@@ -3,3 +3,7 @@
 // 3) looks for index.js as you can see in main
 // 4) create backend of the application and define the type
 //  * Why do we change start to test
+
+Seperation of concerns, make life easier by ...
+
+We created user routes, and we created router object from 
